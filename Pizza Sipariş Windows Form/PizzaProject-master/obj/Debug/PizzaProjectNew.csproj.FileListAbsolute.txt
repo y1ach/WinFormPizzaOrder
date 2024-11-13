@@ -1,0 +1,10 @@
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\obj\Debug\PizzaProjectNew.csproj.AssemblyReference.cache
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\bin\Debug\PizzaProjectNew.exe.config
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\bin\Debug\PizzaProjectNew.exe
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\bin\Debug\PizzaProjectNew.pdb
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\obj\Debug\PizzaProjectNew.Pizza.resources
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\obj\Debug\PizzaProjectNew.Properties.Resources.resources
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\obj\Debug\PizzaProjectNew.csproj.GenerateResource.cache
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\obj\Debug\PizzaProjectNew.csproj.CoreCompileInputs.cache
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\obj\Debug\PizzaProjectNew.exe
+C:\Users\yigit\Downloads\PizzaProject-master\PizzaProject-master\obj\Debug\PizzaProjectNew.pdb
